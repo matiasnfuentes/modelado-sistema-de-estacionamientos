@@ -7,4 +7,4 @@ El objetivo del proyecto es modelar un sistema de estacionamientos implementado 
  - Modelar el sistema pedido utilizando buenas prácticas y siguiendo los principios SOLID.
  - Refactorizar el código en base a bad smells, utilizando algunos refactors ya conocidos e investigando otros.
  
- Para una información mas detallada de los objetivos , leer [Consingas](https://gitlab.com/matiasnfuentes/modelado-sistema-de-estacionamientos/-/blob/master/consignas.pdf)
+ Para una información mas detallada de los objetivos , leer [Consingas](https://github.com/matiasnfuentes/modelado-sistema-de-estacionamientos/blob/master/Consignas.pdf)
